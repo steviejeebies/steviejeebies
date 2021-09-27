@@ -4,4 +4,4 @@ My name is Stephen Rowe and I am an Computer Science MSc student in Trinity Coll
 
 Please take a peek around my GitHub repositories to see the projects I have worked on. Technologies used include Java (networking, JUnit testing), C (incl. OpenMP Concurrency), Javascript (React, NodeJS, Express, HTML), Haskell, VHDL, SQL, plus many more. Also check out my short research paper on zk-SNARK technology.
 
-If you'd like to get in touch, send me an email at rowes{at}tcd{dot}ie, it's the easiest way to get me.
+If you'd like to get in touch, send me an email at rowes{_at_}tcd{_dot_}ie, it's the easiest way to get me.
